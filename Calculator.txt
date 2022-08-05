@@ -5,5 +5,7 @@ class Calculator{
         System.out.println("덧셈 결과 : " + (a + b));
 
         system.out.println("뺄셈 결과 : " + (a - b));
+
+        system.out.println("곱셈 결과 : " + (a * b));
     }
 }
